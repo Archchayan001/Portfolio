@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './constants/Navbar';
 import Profile from './constants/Profile';
 import About from './constants/About';
-import Technology from './constants/technology';
+import Technology from './constants/Technology.jsx';
 import Experience from './constants/Experience';
 import Project from './constants/Project';
 import Contact from './constants/Contact';
