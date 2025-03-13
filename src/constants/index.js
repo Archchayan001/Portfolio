@@ -40,6 +40,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+    projectlink:"https://github.com/Thanusiyan1007/VNS_SERVICE_STATION_PROJECT.git",
     title: "VNS Service Station Project",
     image: project1,
     description:
@@ -47,6 +48,7 @@ export const PROJECTS = [
     technologies: ["React", "Django", "MYSQL","TailwindCSS"],
   },
   {
+    projectlink:"https://github.com/Thanusiyan1007/Event-Hub.git",
     title: "Event Hub",
     image: project2,
     description:
@@ -54,6 +56,7 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "JavaScript", "PHP", "MYSQL"],
   },
   {
+    projectlink:"https://github.com/Archchayan001/Portfolio.git",
     title: "Portfolio Website",
     image: project3,
     description:
@@ -61,6 +64,7 @@ export const PROJECTS = [
     technologies: ["React", "TailwindCSS"],
   },
   {
+    projectlink:"https://github.com/Archchayan001/Zapt.git",
     title: "Zapt",
     image: project4,
     description:

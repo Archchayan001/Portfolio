@@ -17,7 +17,7 @@ const Project = () => {
                 className='w-full h-[180px]  px-8  object-cover'
               />
               <a
-                href={project.link} // Assuming project.link contains the project URL
+                href={project.projectlink} // Assuming project.link contains the project URL
                 target='_blank'
                 rel='noopener noreferrer'
                 className='absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 bg-black/60 transition duration-300'
